@@ -4,5 +4,5 @@
 python main.py -h
 ```
 
-- Note: this AES implemntation contains log for each step
+- Note: this AES implementation contains log for each step
 - Set verbosity level in `utils.py` file
